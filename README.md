@@ -8,6 +8,7 @@ Robot Users is a simple react app, that allows users to search on a list of robo
 
 * [Create React App](https://create-react-app.dev/)
 * [React](https://reactjs.org/)
+* [JSON Placeholder](https://jsonplaceholder.typicode.com)
 
 ## Getting Started
 
